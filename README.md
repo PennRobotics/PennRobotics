@@ -4,8 +4,8 @@ I’m currently working on software for hardware debuggers.
 
 <div id="badges">
   <img src="https://img.shields.io/badge/GitHub-darkslategrey?style=plastic&logo=github&logoColor=white" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/LinkedIn-steelblue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/StackOverflow-darkorange?style=plastic&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-steelblue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/NN-white?style=plastic" alt="NN"/>
   <br/>
   <img src="https://img.shields.io/badge/YouTube-crimson?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
