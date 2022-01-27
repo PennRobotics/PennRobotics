@@ -7,7 +7,7 @@ I’m currently working on software for hardware debuggers.
   <img src="https://img.shields.io/badge/LinkedIn-steelblue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/NN-white?style=plastic" alt="NN"/>
   <br/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-crimson?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <img src="https://img.shields.io/badge/Instagram-lightcoral?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
