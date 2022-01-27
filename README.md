@@ -3,10 +3,11 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8butISFwT-Wl7EV0hUK0BQ?style=plastic)
   <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC8butISFwT-Wl7EV0hUK0BQ?style=plastic)
+  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
