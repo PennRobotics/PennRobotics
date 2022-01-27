@@ -2,11 +2,11 @@
 
 I’m currently working on software for hardware debuggers.
 
-<!-- div id="badges">
+<!-- --><div id="badges">
   <img src="https://img.shields.io/badge/GitHub-darkslategrey?style=plastic&logo=github&logoColor=white" alt="GitHub Badge"/>
   <img src="https://img.shields.io/badge/StackOverflow-darkorange?style=plastic&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
   <img src="https://img.shields.io/badge/HackerNews-orange?style=plastic&logo=ycombinator&logoColor=white" alt="Hacker News Badge"/>
-  <img src="https://img.shields.io/badge/LinkedIn-steelblue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/pennrobotics/"><img src="https://img.shields.io/badge/LinkedIn-steelblue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <br/>
   <img src="https://img.shields.io/badge/YouTube-crimson?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -17,7 +17,7 @@ I’m currently working on software for hardware debuggers.
   <img src="https://img.shields.io/badge/SoundCloud-orangered?style=plastic&logo=soundcloud&logoColor=white" alt="SoundCloud Badge"/>
   <img src="https://img.shields.io/badge/TikTok-black?style=plastic&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   <img src="https://img.shields.io/badge/Discord-mediumpurple?style=plastic&logo=discord&logoColor=white" alt="Discord Badge"/>
-</div -->
+</div><!-- -->
 
   
 <div>
