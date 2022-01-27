@@ -1,5 +1,7 @@
 ### PennRobotics
 
+I’m currently working on software for hardware debuggers.
+
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -15,5 +17,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
 </div>
-
-- I’m currently working on software for hardware debuggers
