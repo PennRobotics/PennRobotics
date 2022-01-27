@@ -13,7 +13,7 @@ I’m currently working on software for hardware debuggers.
   <img src="https://img.shields.io/badge/Instagram-lightcoral?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   <img src="https://img.shields.io/badge/Reddit-orangered?style=plastic&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   <br/>
-  <img src="https://img.shields.io/badge/NN-white?style=plastic" alt="NN"/>
+  <img src="https://img.shields.io/badge/Personal Blog-white?style=plastic" alt="Personal Blog"/>
   <img src="https://img.shields.io/badge/SoundCloud-orangered?style=plastic&logo=soundcloud&logoColor=white" alt="SoundCloud Badge"/>
   <img src="https://img.shields.io/badge/TikTok-black?style=plastic&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   <img src="https://img.shields.io/badge/Discord-mediumpurple?style=plastic&logo=discord&logoColor=white" alt="Discord Badge"/>
