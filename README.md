@@ -14,9 +14,9 @@ I’m currently working on software for hardware debuggers.
   <img src="https://img.shields.io/badge/Reddit-orangered?style=plastic&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   <br/>
   <img src="https://img.shields.io/badge/NN-white?style=plastic" alt="NN"/>
-  <img src="https://img.shields.io/badge/-orangered?style=plastic&logo=soundcloud&logoColor=white" alt="SoundCloud Icon Badge"/>
-  <img src="https://img.shields.io/badge/-black?style=plastic&logo=tiktok&logoColor=white" alt="TikTok Icon Badge"/>
-  <img src="https://img.shields.io/badge/-mediumpurple?style=plastic&logo=discord&logoColor=white" alt="Discord Icon Badge"/>
+  <img src="https://img.shields.io/badge/orangered?style=plastic&logo=soundcloud&logoColor=white" alt="SoundCloud Icon Badge"/>
+  <img src="https://img.shields.io/badge/black?style=plastic&logo=tiktok&logoColor=white" alt="TikTok Icon Badge"/>
+  <img src="https://img.shields.io/badge/mediumpurple?style=plastic&logo=discord&logoColor=white" alt="Discord Icon Badge"/>
 </div>
 
   
