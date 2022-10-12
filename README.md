@@ -11,6 +11,8 @@ I’m currently working on software for hardware debuggers.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
 </div>
 
+<br/>
+
 <div id="badges">
   <a href="https://twitter.com/PennRobotics"><img src="https://img.shields.io/badge/Twitter-dodgerblue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.linkedin.com/in/pennrobotics/"><img src="https://img.shields.io/badge/LinkedIn-steelblue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
