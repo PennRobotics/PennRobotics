@@ -19,6 +19,6 @@ I’m currently working on software for hardware debuggers.
   <a href="https://twitter.com/PennRobotics"><img src="https://img.shields.io/badge/-dodgerblue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.linkedin.com/in/pennrobotics/"><img src="https://img.shields.io/badge/-steelblue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://github.com/PennRobotics/"><img src="https://img.shields.io/badge/-darkslategrey?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-  <a href="https://stackoverflow.com/users/10641561"><img src="https://img.shields.io/badge/-darkorange?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/></a>
   <a href="https://news.ycombinator.com/user?id=PennRobotics"><img src="https://img.shields.io/badge/-orange?style=flat&logo=ycombinator&logoColor=white" alt="Hacker News Badge"/></a>
+  <a href="https://stackoverflow.com/users/10641561"><img src="https://img.shields.io/badge/-darkorange?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/></a>
 </div>
