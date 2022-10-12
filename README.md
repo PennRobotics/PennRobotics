@@ -10,7 +10,7 @@ I’m currently working on software for hardware debuggers.
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/PennRobotics/PennRobotics/blob/main/dassault-logo.svg" title="SOLIDWORKS" alt="SOLIDWORKS" width="41" height="40"/>&nbsp;
+  <img src="https://github.com/PennRobotics/PennRobotics/blob/main/dassault-logo.svg" title="SOLIDWORKS" alt="SOLIDWORKS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/PennRobotics/PennRobotics/blob/main/kicad-logo.svg" title="KiCad" alt="KiCad" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
