@@ -1,5 +1,7 @@
 ### PennRobotics
 
+This is a personal Github account (ROBO '17).
+
 I’m currently working on software for hardware debuggers.
   
 <br/>
