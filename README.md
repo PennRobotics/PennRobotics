@@ -2,7 +2,7 @@
 
 This is a personal Github account (ROBO '17).
 
-I’m currently working on software for hardware debuggers.
+My current career focus is software for hardware debuggers.
   
 <br/>
 
