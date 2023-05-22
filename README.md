@@ -27,6 +27,8 @@ My current career focus is software for hardware debuggers.
   <a href="https://stackoverflow.com/users/10641561"><img src="https://img.shields.io/badge/-darkorange?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/></a>
 </div>
 
+<br/>
+
 > **Note**
 > I&rsquo;ve reduced my Github activity while I plan a move to Gitlab. Despite convenience features for the command line and mobile, several changes to Github&mdash;new UI can be confusing, new projects are less self-contained and intuitive vs classic, included in a social feed unless profile is private, refusal to enforce ToS fairly, failures to properly enforce license standards, and general code ownership issues that tag along when Microsoft acquires a company and its contents&mdash;have prompted me to find a better host for personal projects.
 
