@@ -1,6 +1,6 @@
 ### PennRobotics
 
-This is a personal Github account and not affiliated with the University of Pennsylvania, although I did graduate from Penn (ROBO &rsquo;17).
+This is a personal GitHub account and not affiliated with the University of Pennsylvania, although I did graduate from Penn (ROBO &rsquo;17).
 
 My current career focus is software for hardware debuggers.
   
@@ -30,7 +30,7 @@ My current career focus is software for hardware debuggers.
 <br/>
 
 > **Note**
-> I&rsquo;ve reduced my Github activity while I plan a move to Gitlab. Despite convenience features for the command line and mobile, several changes to Github&mdash;new UI can be confusing, new projects are less self-contained and intuitive vs classic, included in a social feed unless profile is private, refusal to enforce ToS fairly, failures to properly enforce license standards, and general code ownership issues that tag along when Microsoft acquires a company and its contents&mdash;have prompted me to find a better host for personal projects.
+> I&rsquo;ve reduced my GitHub activity while I plan a move to GitLab. Despite convenience features for the command line and mobile, several changes to GitHub&mdash;new UI can be confusing, new projects are less self-contained and intuitive vs classic, included in a social feed unless profile is private, refusal to enforce ToS fairly, failures to properly enforce license standards, and general code ownership issues that tag along when Microsoft acquires a company and its contents&mdash;have prompted me to find a better host for personal projects.
 
 <!-- I thought it would be cute and funny to use the new GitHub admonition here, which has prompted quite a few other users to flame Microsoft/GitHub for not working with CommonMark to find a good admonition style. MS gonna MS. -->
 
@@ -47,5 +47,5 @@ My current career focus is software for hardware debuggers.
 - [ ] Transition profile details    _(in progress)_
 - [ ] Update links
 - [ ] Update READMEs
-- [ ] Create link from each GitHub project to Gitlab
+- [ ] Create link from each GitHub project to GitLab
 - [ ] Re-public and highlight year 2020 prong in general profile description
