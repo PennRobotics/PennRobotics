@@ -36,15 +36,15 @@ My current career focus is software for hardware debuggers.
 
 #### TODO
 
-- [ ] Remove ABC publish action from GitHub Marketplace
-- [ ] Figure out where the GitHub Pages site will live
+- [X] Remove ABC publish action from GitHub Marketplace
+- [X] Figure out where the GitHub Pages site will live
 - [ ] Transition repo details
   - [ ] project description
   - [ ] releases
   - [ ] tags
   - [ ] project boards
   - [ ] milestones
-- [ ] Transition profile details
+- [ ] Transition profile details    _(in progress)_
 - [ ] Update links
 - [ ] Update READMEs
 - [ ] Create link from each GitHub project to Gitlab
