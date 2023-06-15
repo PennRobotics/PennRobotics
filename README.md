@@ -39,7 +39,7 @@ My current career focus is software for hardware debuggers.
 - [X] Remove ABC publish action from GitHub Marketplace
 - [X] Figure out where the GitHub Pages site will live
 - [ ] Transition repo details
-  - [ ] project description
+  - [X] project description
   - [ ] releases
   - [ ] tags
   - [ ] project boards
