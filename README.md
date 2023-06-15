@@ -49,3 +49,4 @@ My current career focus is software for hardware debuggers.
 - [ ] Update READMEs
 - [ ] Create link from each GitHub project to GitLab
 - [ ] Re-public and highlight year 2020 prong in general profile description
+- [ ] Ensure payment details / sponserships have lapsed and are revoked/removed
