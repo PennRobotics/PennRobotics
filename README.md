@@ -8,13 +8,13 @@ Nowadays, I develop publicly using [GitLab](https://gitlab.com/PennRobotics).
 - [X] Figure out where the GitHub Pages site will live
 - [ ] Transition repo details
   - [X] project description
-  - [ ] releases
-  - [ ] tags
-  - [ ] project boards
-  - [ ] milestones
+  - [ ] <s>releases</s>
+  - [ ] <s>tags</s>
+  - [ ] <s>project boards</s>
+  - [ ] <s>milestones</s>
 - [x] Transition profile details    _(in progress)_
-- [ ] Update links
-- [ ] Update READMEs
-- [ ] Create link from each GitHub project to GitLab
-- [ ] Re-public and highlight year 2020 prong in general profile description
+- [x] Update links
+- [x] Update READMEs
+- [x] Create link from each GitHub project to GitLab
+- [ ] <s>Re-public and highlight year 2020 prong in general profile description</s>
 - [x] Ensure payment details / sponserships have lapsed and are revoked/removed
